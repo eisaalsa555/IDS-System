@@ -110,9 +110,9 @@ Add these details inside the configuration file (or script variables)
 
 This step is required for receiving alert notifications.
 
-5️⃣ Run the IDS System
+# 5️⃣ Run the IDS System
 
-Start the Intrusion Detection System using:
+## Start the Intrusion Detection System using:
 ```
 python main.py
 ```
@@ -129,10 +129,9 @@ Sends instant alerts to the admin via Telegram
 Triggers a local beep alarm on detection
 
 ## ⚠️ Notes
-~~~
 Make sure Python 3.8 or higher is installed
 
 The repository must be public for cloning
 
 Telegram bot configuration is mandatory for alerts
-~~~
+
