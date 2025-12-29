@@ -79,14 +79,14 @@ cd IDS-System
 python -m venv venv
 ```
 
-3 Activate the virtual environment:
+## 3 Activate the virtual environment:
 
-#Windows
+# Windows
 ````
 venv\Scripts\activate
 ````
 
-#Linux / macOS
+# Linux / macOS
 ```
 source venv/bin/activate
 ````
@@ -134,4 +134,5 @@ Make sure Python 3.8 or higher is installed
 The repository must be public for cloning
 
 Telegram bot configuration is mandatory for alerts
+
 
