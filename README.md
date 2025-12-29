@@ -61,42 +61,42 @@ Reduces response time during security incidents
 
 ## Installation
 
-1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
-First, clone the public GitHub repository to your local system:
-
+# First, clone the public GitHub repository to your local system:
+```
 git clone https://github.com/eisaalsa555/IDS-System.git
+```
 
-
-Move into the project directory:
-
+# Move into the project directory:
+```
 cd IDS-System
+```
+## 2️⃣ Create and Activate Virtual Environment (Recommended)
 
-2️⃣ Create and Activate Virtual Environment (Recommended)
-
-Creating a virtual environment helps manage dependencies cleanly.
-
+#Creating a virtual environment helps manage dependencies cleanly.
+```
 python -m venv venv
+```
 
+3 Activate the virtual environment:
 
-Activate the virtual environment:
-
-Windows
-
+#Windows
+````
 venv\Scripts\activate
+````
 
-
-Linux / macOS
-
+#Linux / macOS
+```
 source venv/bin/activate
+````
+## 3️⃣ Install Required Dependencies
 
-3️⃣ Install Required Dependencies
-
-Install all required Python packages:
-
+# Install all required Python packages:
+```
 pip install -r requirements.txt
-
-4️⃣ Configure Telegram Bot
+```
+## 4️⃣ Configure Telegram Bot
 
 Before running the system, configure your Telegram bot:
 
@@ -113,13 +113,10 @@ This step is required for receiving alert notifications.
 5️⃣ Run the IDS System
 
 Start the Intrusion Detection System using:
-
+```
 python main.py
-
-
-(Replace main.py with the actual entry file if different)
-
-6️⃣ System Behavior After Running
+```
+## 6️⃣ System Behavior After Running
 
 Once running:
 
@@ -131,11 +128,11 @@ Sends instant alerts to the admin via Telegram
 
 Triggers a local beep alarm on detection
 
-⚠️ Notes
-
+## ⚠️ Notes
+~~~
 Make sure Python 3.8 or higher is installed
 
 The repository must be public for cloning
 
 Telegram bot configuration is mandatory for alerts
-
+~~~
