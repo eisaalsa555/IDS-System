@@ -1,0 +1,1704 @@
+[2025-10-29 15:20:47.291957] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29395
+
+[2025-10-29 15:21:08.711999] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29400
+
+[2025-10-29 15:21:23.010513] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29412
+
+[2025-10-29 15:21:53.044991] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:22:00.907031] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:22:08.783737] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:22:20.831940] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29420
+
+[2025-10-29 15:22:28.621979] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29420
+
+[2025-10-29 15:22:37.557026] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29412
+
+[2025-10-29 15:22:45.334088] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29417
+
+[2025-10-29 15:22:53.779300] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29407
+
+[2025-10-29 15:23:01.975183] ALERT: Suspicious activity from 20.189.172.73
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29422
+
+[2025-10-29 15:23:09.889997] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:23:18.812312] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:23:26.738126] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:23:34.861459] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:23:42.592455] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29437
+
+[2025-10-29 15:23:50.752815] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29441
+
+[2025-10-29 15:23:58.527183] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 29442
+
+[2025-10-29 15:24:06.546113] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29445
+
+[2025-10-29 15:24:14.219273] ALERT: Suspicious activity from 20.189.173.27
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 29446
+
+[2025-10-29 15:24:22.473974] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:24:51.546735] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:24:59.365546] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:25:07.164961] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:25:14.864846] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:25:22.632047] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:25:52.163164] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:26:00.164052] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:26:29.353285] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:26:38.522952] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:26:46.393046] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:26:55.175564] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:27:03.375886] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:27:11.937349] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:27:20.230735] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:27:49.838024] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:27:58.853876] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:28:06.886128] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:28:19.634593] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:28:28.414522] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:28:41.822340] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:28:50.627016] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:28:59.016169] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:29:09.797264] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:29:18.369069] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:29:48.369480] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:29:58.253827] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:30:07.945158] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:30:21.892088] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:30:33.780149] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:30:42.221369] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:30:50.345658] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:30:59.457489] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:31:08.111621] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:31:19.410896] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:31:30.698428] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:31:38.462442] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:31:46.557724] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:31:54.406206] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:32:02.592659] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:32:10.886171] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:32:19.768807] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:32:28.191564] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:32:36.804552] ALERT: Suspicious activity from 20.189.173.6
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29570
+
+[2025-10-29 15:32:44.810850] ALERT: Suspicious activity from 20.189.173.6
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29570
+
+[2025-10-29 15:32:53.079448] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:33:01.388152] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:33:10.511802] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:33:19.166891] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:33:32.257836] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29581
+
+[2025-10-29 15:33:43.410051] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:34:21.134674] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:34:29.226973] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:34:59.020752] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:35:07.168386] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:35:15.473515] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:35:24.190248] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:35:34.441941] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:35:42.563621] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:36:02.017115] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:36:10.873089] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:36:22.718588] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:36:34.355120] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:36:42.324657] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:36:50.386909] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:36:59.837863] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:37:13.149692] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:37:21.612035] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:37:30.775071] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:37:41.287606] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:37:49.234773] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:37:58.982682] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:38:06.983541] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:38:18.483130] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:38:29.981805] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:38:39.741052] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:38:48.612975] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:38:56.683185] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:39:05.199438] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:39:17.936582] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:39:28.254249] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:39:36.179902] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:40:08.837499] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 123
+
+[2025-10-29 15:40:18.265944] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:40:26.553001] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:40:34.293447] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:40:42.380362] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:40:50.401248] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:40:59.281774] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:41:07.332163] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:41:15.630043] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:41:23.697329] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:41:32.642862] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:41:41.464386] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:41:50.731044] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:41:58.552291] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:42:29.886303] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:42:38.447161] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:42:47.170223] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:43:17.030976] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:43:26.081777] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:43:34.173625] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:44:03.551441] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:44:11.744021] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:44:19.780206] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:44:27.603954] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:44:42.309350] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:44:51.269038] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:44:59.731545] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:45:08.558233] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:45:40.133392] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:45:48.307747] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:45:57.253746] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29981
+
+[2025-10-29 15:46:05.160782] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29981
+
+[2025-10-29 15:46:13.687425] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29979
+
+[2025-10-29 15:46:22.381846] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29981
+
+[2025-10-29 15:46:31.447967] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29980
+
+[2025-10-29 15:46:39.425703] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29978
+
+[2025-10-29 15:46:48.304115] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29978
+
+[2025-10-29 15:46:56.949640] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29980
+
+[2025-10-29 15:47:07.173762] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29981
+
+[2025-10-29 15:47:15.985679] ALERT: Suspicious activity from 13.107.13.93
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 29981
+
+[2025-10-29 15:47:24.715740] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:47:33.926816] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:47:43.388014] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:47:51.770053] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:48:00.544998] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:48:30.146845] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:48:37.943639] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:48:46.299042] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:48:54.398662] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:49:04.522693] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:49:12.618840] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:49:21.796704] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:49:29.877317] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:49:38.601739] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:49:46.542286] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:49:54.515388] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:50:02.081225] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:50:10.197695] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:50:18.867448] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:50:27.776694] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 80
+
+[2025-10-29 15:50:39.797259] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:50:48.259822] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:50:56.973179] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:51:05.980289] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:51:15.408172] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:51:25.611478] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:51:34.727914] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:51:43.934092] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:51:52.817170] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:52:03.546481] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:52:12.136915] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:52:29.826918] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:52:47.605120] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:52:56.423680] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:53:04.335539] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:53:15.149546] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:53:24.924038] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:53:33.410734] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:53:42.784485] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:53:51.085995] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30335
+
+[2025-10-29 15:53:59.378061] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30333
+
+[2025-10-29 15:54:07.587636] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30335
+
+[2025-10-29 15:54:15.984720] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30333
+
+[2025-10-29 15:54:23.840889] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30366
+
+[2025-10-29 15:54:31.631140] ALERT: Suspicious activity from 20.50.80.213
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30366
+
+[2025-10-29 15:54:39.984693] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30368
+
+[2025-10-29 15:54:48.692535] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30370
+
+[2025-10-29 15:55:17.810229] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30368
+
+[2025-10-29 15:55:26.344934] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30368
+
+[2025-10-29 15:55:34.241811] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30369
+
+[2025-10-29 15:55:42.142697] ALERT: Suspicious activity from 20.207.73.85
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30368
+
+[2025-10-29 15:55:50.014492] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:55:57.869694] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:56:06.236342] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30378
+
+[2025-10-29 15:56:14.170097] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 30379
+
+[2025-10-29 15:56:22.896227] ALERT: Suspicious activity from 52.182.143.214
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30359
+
+[2025-10-29 15:56:31.316813] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30364
+
+[2025-10-29 15:56:40.281763] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30379
+
+[2025-10-29 15:56:49.163844] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30382
+
+[2025-10-29 15:56:57.267245] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30378
+
+[2025-10-29 15:57:05.297353] ALERT: Suspicious activity from 20.189.172.33
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30395
+
+[2025-10-29 15:57:13.879941] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:57:23.100027] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:57:31.502738] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:57:40.293052] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:57:51.007204] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 15:57:59.367709] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:58:09.343698] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:58:17.902290] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 15:58:27.287939] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30437
+
+[2025-10-29 15:58:48.425047] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 15:59:01.338364] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 15:59:31.215152] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30439
+
+[2025-10-29 15:59:39.283112] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30438
+
+[2025-10-29 15:59:47.475015] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30439
+
+[2025-10-29 15:59:55.795122] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30438
+
+[2025-10-29 16:00:05.077763] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30440
+
+[2025-10-29 16:00:13.131303] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 30441
+
+[2025-10-29 16:00:21.266706] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30440
+
+[2025-10-29 16:00:30.221651] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30441
+
+[2025-10-29 16:00:38.816937] ALERT: Suspicious activity from 40.79.173.41
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 30441
+
+[2025-10-29 16:00:48.022080] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:00:57.209776] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:01:05.971707] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:01:15.813371] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:01:29.600512] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:01:39.278464] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:01:48.313268] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:01:57.039345] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:02:06.666598] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:02:14.977368] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:02:24.112870] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:02:32.828570] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:03:03.041978] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:03:11.204959] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:03:41.887172] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:03:49.966131] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:03:58.026295] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:04:07.493756] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:04:15.396972] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:04:23.425759] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:04:31.364320] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:05:01.701461] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:05:31.485546] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:05:40.226613] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:05:48.367808] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:05:56.834963] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:06:05.158012] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:06:15.040146] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:06:24.157493] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:06:32.281232] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:06:40.265345] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:06:48.707215] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:06:57.022218] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:07:05.090368] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:07:13.389554] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:07:25.090811] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:07:39.492588] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:07:47.195061] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:07:55.656306] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:08:03.990661] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:08:12.558647] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:08:41.406484] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:08:49.313340] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:08:56.967122] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:09:26.945298] ALERT: Suspicious activity from 192.168.1.1
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 49188
+
+[2025-10-29 16:09:34.497522] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:09:42.264640] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:09:50.376065] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:09:59.565153] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:10:07.778769] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:10:17.045571] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:10:25.261778] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:10:33.054167] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:11:02.355688] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:11:10.330703] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:11:20.603778] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:11:28.580526] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:11:37.343459] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:11:46.915024] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:11:55.351787] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:12:03.327635] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:12:37.441505] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:12:53.110903] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:13:01.242222] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:13:13.804113] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:13:28.542247] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:13:44.194759] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:14:02.253545] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:14:15.544053] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:14:26.919249] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31267
+
+[2025-10-29 16:14:37.473411] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31266
+
+[2025-10-29 16:14:48.597844] ALERT: Suspicious activity from 13.89.179.10
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31282
+
+[2025-10-29 16:14:59.889350] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31286
+
+[2025-10-29 16:15:14.680803] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31276
+
+[2025-10-29 16:15:25.866372] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31276
+
+[2025-10-29 16:15:36.717004] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31275
+
+[2025-10-29 16:15:46.221703] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31275
+
+[2025-10-29 16:15:55.412679] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31291
+
+[2025-10-29 16:16:04.846737] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31276
+
+[2025-10-29 16:16:14.547562] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31286
+
+[2025-10-29 16:16:23.416937] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31292
+
+[2025-10-29 16:16:34.480269] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31285
+
+[2025-10-29 16:16:45.280773] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31220
+
+[2025-10-29 16:16:54.794235] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31220
+
+[2025-10-29 16:17:04.429459] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31301
+
+[2025-10-29 16:17:21.668180] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31220
+
+[2025-10-29 16:17:39.943089] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31312
+
+[2025-10-29 16:17:50.301257] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31309
+
+[2025-10-29 16:18:01.283238] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31308
+
+[2025-10-29 16:18:13.129180] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31314
+
+[2025-10-29 16:18:21.632758] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31314
+
+[2025-10-29 16:18:32.238604] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31308
+
+[2025-10-29 16:18:52.077628] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31314
+
+[2025-10-29 16:19:01.407838] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31314
+
+[2025-10-29 16:19:11.744963] ALERT: Suspicious activity from 140.82.113.21
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31309
+
+[2025-10-29 16:19:20.768899] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31320
+
+[2025-10-29 16:19:31.550432] ALERT: Suspicious activity from 13.89.179.10
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31268
+
+[2025-10-29 16:19:41.107825] ALERT: Suspicious activity from 13.89.179.10
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31315
+
+[2025-10-29 16:19:51.845350] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31302
+
+[2025-10-29 16:20:01.540316] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31302
+
+[2025-10-29 16:20:10.603032] ALERT: Suspicious activity from 20.250.119.64
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31301
+
+[2025-10-29 16:20:18.823246] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31320
+
+[2025-10-29 16:20:27.903282] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31330
+
+[2025-10-29 16:20:57.059158] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31330
+
+[2025-10-29 16:21:05.854491] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31330
+
+[2025-10-29 16:21:14.228602] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31320
+
+[2025-10-29 16:21:22.106039] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 31323
+
+[2025-10-29 16:21:51.864277] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31328
+
+[2025-10-29 16:22:00.821600] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31198
+
+[2025-10-29 16:22:11.228473] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31334
+
+[2025-10-29 16:22:20.840202] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31330
+
+[2025-10-29 16:22:54.042987] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31334
+
+[2025-10-29 16:23:04.669243] ALERT: Suspicious activity from 140.82.112.22
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31330
+
+[2025-10-29 16:23:15.453074] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31292
+
+[2025-10-29 16:23:27.391983] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31342
+
+[2025-10-29 16:23:59.232286] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31335
+
+[2025-10-29 16:24:08.028301] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 31336
+
+[2025-10-29 16:24:19.170234] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31320
+
+[2025-10-29 16:24:30.283045] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31342
+
+[2025-10-29 16:24:40.043696] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 31336
+
+[2025-10-29 16:24:49.954997] ALERT: Suspicious activity from 20.189.172.32
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31341
+
+[2025-10-29 16:25:00.584867] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:25:11.128485] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:25:20.355137] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:25:30.241585] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:26:02.049411] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:26:10.885553] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:26:19.915412] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:26:28.967631] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:27:00.266030] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:27:09.963556] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:27:19.531205] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:27:28.522450] ALERT: Suspicious activity from 192.168.1.1
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 51617
+
+[2025-10-29 16:27:38.473900] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:27:46.888232] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:27:55.426927] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:28:28.632000] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:28:39.546865] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:28:51.175155] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:28:58.919957] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:29:06.717432] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:29:14.775141] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:29:25.321100] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:29:33.144267] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:29:42.169164] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:29:51.308020] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:29:59.572512] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:30:07.484699] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:30:15.884481] ALERT: Suspicious activity from 40.79.141.155
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31694
+
+[2025-10-29 16:30:23.588703] ALERT: Suspicious activity from 40.79.141.155
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31694
+
+[2025-10-29 16:30:53.664550] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:31:22.562101] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:31:31.505297] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:31:39.576531] ALERT: Suspicious activity from 20.189.173.8
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 31710
+
+[2025-10-29 16:32:08.624631] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:32:16.555264] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:32:24.361983] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:32:32.180013] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:32:40.462332] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:32:48.610175] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:33:00.006091] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:33:09.875081] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:33:17.976147] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:33:29.957555] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:33:42.972566] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 5355
+
+[2025-10-29 16:33:53.688375] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:34:06.022150] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:34:19.964039] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:34:54.270484] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 52637
+
+[2025-10-29 16:35:08.793296] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 5228
+
+[2025-10-29 16:35:27.925907] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50015
+
+[2025-10-29 16:36:17.079292] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50012
+
+[2025-10-29 16:36:42.912654] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 52637
+
+[2025-10-29 16:37:02.955358] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50012
+
+[2025-10-29 16:37:43.027689] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 7881
+
+[2025-10-29 16:38:06.561460] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32196
+
+[2025-10-29 16:38:23.673917] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 51328
+
+[2025-10-29 16:38:53.173463] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32194
+
+[2025-10-29 16:39:06.027600] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32206
+
+[2025-10-29 16:39:19.125289] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 443
+
+[2025-10-29 16:39:49.483303] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32205
+
+[2025-10-29 16:39:58.447826] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 32204
+
+[2025-10-29 16:40:10.823659] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50001
+
+[2025-10-29 16:40:36.089805] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32199
+
+[2025-10-29 16:41:16.804470] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32213
+
+[2025-10-29 16:41:28.950742] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32213
+
+[2025-10-29 16:41:37.794615] ALERT: Suspicious activity from 143.223.94.60
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 32196
+
+[2025-10-29 16:41:48.966701] ALERT: Suspicious activity from 144.24.122.113
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32249
+
+[2025-10-29 16:42:00.363281] ALERT: Suspicious activity from 144.24.122.113
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32245
+
+[2025-10-29 16:42:22.299293] ALERT: Suspicious activity from 144.24.122.113
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32244
+
+[2025-10-29 16:42:52.086812] ALERT: Suspicious activity from 143.223.94.107
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32242
+
+[2025-10-29 16:43:06.710686] ALERT: Suspicious activity from 143.223.94.107
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32234
+
+[2025-10-29 16:43:20.572875] ALERT: Suspicious activity from 143.223.94.107
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32243
+
+[2025-10-29 16:43:30.062022] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 53
+
+[2025-10-29 16:43:38.971567] ALERT: Suspicious activity from 144.24.122.113
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32248
+
+[2025-10-29 16:43:48.645565] ALERT: Suspicious activity from 144.24.122.113
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 32245
+
+[2025-10-29 16:44:06.150271] ALERT: Suspicious activity from 143.223.94.107
+   Reason: portscan_unique_ports=3
+   Protocol: TCP, DPort: 32240
+
+[2025-10-29 16:44:15.346819] ALERT: Suspicious activity from 143.223.94.107
+   Reason: portscan_unique_ports=4
+   Protocol: TCP, DPort: 32234
+
+[2025-10-29 16:44:24.016857] ALERT: Suspicious activity from 192.168.1.1
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 61198
+
+[2025-10-29 16:44:34.266814] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50001
+
+[2025-10-29 16:44:44.210541] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50014
+
+[2025-10-29 16:45:15.203436] ALERT: Suspicious activity from 192.168.1.17
+   Reason: portscan_unique_ports=3
+   Protocol: UDP, DPort: 50004
+

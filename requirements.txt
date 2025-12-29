@@ -1,0 +1,15 @@
+scapy>=2.4.5
+psutil>=5.9.5
+PyYAML>=6.0
+python-dotenv>=1.0.0
+Flask>=2.3.4
+python-telegram-bot>=20.0
+pymongo>=4.0.0
+SQLAlchemy>=1.4.0
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+geoip2>=4.5.0
+dnspython>=2.4.0
+tqdm>=4.60.0

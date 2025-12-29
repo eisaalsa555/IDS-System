@@ -1,0 +1,33 @@
+# config/settings.yaml
+
+sniffer:
+  interface: "Wi-Fi 2"
+  store_packets: false
+
+detection:
+  portscan_window_seconds: 10
+  portscan_threshold: 100
+  dos_window_seconds: 5
+  dos_threshold: 200
+
+alerts:
+  enable_file_logging: true
+  enable_telegram: true
+  enable_email: true
+
+telegram:
+  bot_token: "8242591827:AAE5KDQp0eorFaLQKKVipuG4za2PKrhQbDg"
+  chat_id:
+    - "8288809692"
+    - "1783051037"
+
+email:
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  username: "eisaqadri0@gmail.com"
+  password: "cpeqxunehjgtqeoi"
+  to: "qadrieis@gmail.com"
+
+ml:
+  enable_ml_detection: false
+  model_path: "data/anomaly_model.joblib"
